@@ -1,1 +1,19 @@
-{"balance": 10866, "transactions": [{"id": 184511963518621309139567859552923281512, "data": "2024-05-06", "category": "income", "amount": 500, "description": "super_test"}, {"id": 209206256021356337987109864323682003048, "data": "2024-05-06", "category": "income", "amount": 111, "description": "super"}, {"id": 330254577792032616925186266104097007720, "data": "2024-05-06", "category": "income", "amount": 999, "description": "test"}, {"id": 18464231661761722915130808352946907240, "data": "2024-05-06", "category": "expenses", "amount": 2000, "description": "test"}, {"id": 309826195765702508274840343964299159656, "data": "2024-05-07", "category": "income", "amount": 333, "description": "\u0439\u0446\u0443\u043a\u0435\u043d"}, {"id": 95784968795288122012172936072274765928, "data": "2024-05-07", "category": "expenses", "amount": 10000, "description": "test3"}, {"id": 111051083496770530649369287721030903912, "data": "2024-05-07", "category": "expenses", "amount": 400, "description": "ttt"}, {"id": 9026901343960590557747176753426196584, "data": "2024-05-07", "category": "income", "amount": 6000, "description": "hello"}, {"id": 255118748496800287389706542370919147624, "data": "2024-05-07", "category": "income", "amount": 500, "description": "rrr"}]}
+{
+    "balance": 10866,
+    "transactions": [
+        {
+            "id": 184511963518621309139567859552923281512,
+            "data": "2024-05-06",
+            "category": "income",
+            "amount": 500,
+            "description": "Магазин"
+        },
+        {
+            "id": 209206256021356337987109864323682003048,
+            "data": "2024-05-06",
+            "category": "income",
+            "amount": 111,
+            "description": "Колесо"
+        }
+    ]
+}
