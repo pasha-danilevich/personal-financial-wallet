@@ -12,7 +12,7 @@
 ## Как запустить приложение
 
 1. Клонируйте репозиторий с GitHub. `git clone https://github.com/pasha-danilevich/personal-financial-wallet`
-2. Запустите файл `main.py`  из командной строки `$ python main.py`
+2. Запустите файл `main.py`  из командной строки `$ python src/wallet/main.py`. ВАЖНО: запустите файл из корневого каталога.
 
 
 ## Пример структуры данных в файле
