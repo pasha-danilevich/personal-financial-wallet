@@ -3,6 +3,7 @@ from transactions import Transaction
 from balance import NoMoney
 from file_manager import FinanceManager
 from main import main
+
 manager = FinanceManager()
 
 
